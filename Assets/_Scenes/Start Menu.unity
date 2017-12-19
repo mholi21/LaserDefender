@@ -372,7 +372,7 @@ Prefab:
     - target: {fileID: 11400000, guid: 1d17c8accddfc43d593706f3365be8ab, type: 2}
       propertyPath: gameClip
       value: 
-      objectReference: {fileID: 8300000, guid: 2e2505cf068aa4d469701321e6038ffe, type: 3}
+      objectReference: {fileID: 8300000, guid: 7951fcc29bb2ae34991db5005a5a554d, type: 3}
     - target: {fileID: 11400000, guid: 1d17c8accddfc43d593706f3365be8ab, type: 2}
       propertyPath: endClip
       value: 
